@@ -6,7 +6,7 @@ fun main() {
     val number2= readLine()!!.toInt()
     var num:Int = 0
 
-    println("Enter your Operator:")
+    println("Enter your Operator (+ , - , * , / , %) :")
     val ope = readLine()
 
 
